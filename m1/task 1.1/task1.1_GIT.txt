@@ -1,0 +1,17 @@
+$ git reflog
+b5d4cdc (HEAD -> main, origin/main, develop) HEAD@{0}: merge develop: Fast-forward
+b15535b HEAD@{1}: checkout: moving from develop to main
+b5d4cdc (HEAD -> main, origin/main, develop) HEAD@{2}: commit (merge): resolve conflict
+8fc93c2 (styles) HEAD@{3}: merge styles: Fast-forward
+2d3fde3 HEAD@{4}: checkout: moving from styles to develop
+8fc93c2 (styles) HEAD@{5}: commit: edit index.html
+0c8760e HEAD@{6}: commit: add file styles.css
+2d3fde3 HEAD@{7}: checkout: moving from develop to styles
+2d3fde3 HEAD@{8}: checkout: moving from images to develop
+1d19cbe (images) HEAD@{9}: commit: edit index.html
+33ee6fb HEAD@{10}: commit: add new folder add images in here
+2d3fde3 HEAD@{11}: checkout: moving from develop to images
+2d3fde3 HEAD@{12}: commit: create new branch add new file index.html
+b15535b HEAD@{13}: Branch: renamed refs/heads/images to refs/heads/develop
+b15535b HEAD@{15}: checkout: moving from main to images
+b15535b HEAD@{16}: commit (initial): add file readme.txt
