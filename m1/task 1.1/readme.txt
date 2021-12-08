@@ -1,0 +1,1 @@
+DevOps is a person who understands all the processes of the development cycle - development, testing, understands the architecture of the product, is able to assess security risks, is familiar with automation approaches and tools, at least at a high level, and also understands the pre and post-release support of the product.
